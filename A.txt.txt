@@ -2,3 +2,4 @@
 
 $ git config --global user.name "Son18524"
 $ git config --global user.email sndc0969755036@gmail.com
+ssds
